@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mike Wass/Desktop/Facultate/ASD/laborator 12 (hash tables) - problema 1/main.cpp
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+
