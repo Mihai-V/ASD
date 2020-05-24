@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mike Wass/Desktop/Facultate/ASD/laborator 9 - tema 1/main.cpp
+iostream
+-
+time.h
+-
+cstdlib
+-
+
