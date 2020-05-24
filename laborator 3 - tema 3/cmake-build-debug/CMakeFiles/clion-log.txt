@@ -1,0 +1,4 @@
+"C:\Users\Mike Wass\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Mike Wass\Desktop\Facultate\ASD\laborator 3 - tema 3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Mike Wass/Desktop/Facultate/ASD/laborator 3 - tema 3/cmake-build-debug
